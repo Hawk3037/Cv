@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    text-align: center;
+
+
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color:  #66BFBF;
+    line-height: 2;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: 'Tilt Neon', cursive;
+    color:  #66BFBF;
+    font-weight: normal;
+
+}
+h3{
+    font-size: 2.5rem;
+    font-family: 'Tilt Neon', cursive;
+    color: #11999E;
+    margin-bottom: 15px;
+}
+
+.top-cantainer{
+    background-color: #ECF2FF;
+    position:relative;
+    padding-top: 100px;
+    margin-bottom: 60px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+.skills-img{
+    width: 30%;
+    float:left;
+    border-radius: 20%;
+    margin-right: 30px;
+    height: 180px;
+    margin-bottom: 80px;
+
+}
+.chilli-img{
+    width: 30%;
+    float: right;
+    margin-top: 30px;
+    border-radius: 20%;
+    height: 165px;
+
+}
+.profile-info{
+    color: #40514E;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+.top-cloud{
+    display: inline-block;
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+.btn {
+    background: #66BFBF;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 8px 15px 8px 15px;
+    text-decoration: none;
+    
+    
+  }
+  
+  .btn:hover {
+    background: #11999E;
+
+    text-decoration: none;
+  }
+.bottom-container{
+    padding: 40px;
+    background-color:#66BFBF;
+    margin-top: 60px;
+
+}
+.footer-link{
+    padding: 15px;
+    color: #11999E;
+    text-decoration: none;
+    
+}
+.footer-link:hover{
+    color:black;
+}
+.profile-i{
+    margin-bottom: 60px;
+}
+.footer-i{
+    color: #EAF6F6;
+
+}
+.small-hr{
+    width: 5%;
+    border-top: dotted gray 6px;
+    margin: 80px auto ;
+    border-bottom: none;
+}
+.progil{
+    border-radius: 300px;
+    
+}
+p{
+    line-height: 2;
+}
+.profile-info{
+    margin-bottom: 60px;
+}
+.profile-inf{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 30%;
+    margin: auto;
+}
